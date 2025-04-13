@@ -118,11 +118,21 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/KimPRobloxV3"))()
   end
+  })    AddButton(Tab1o, {
+     Name = "Maru Hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/MaruHub"))()
+  end
+  })    AddButton(Tab1o, {
+     Name = "Maru Hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/MaruHub"))()
+  end
   })
 ----- Section 
    
-   Section = AddSection(Tab1o, {"hello các anh em"})          
+   Section = AddSection(Tab1o, {"chs gay ko😘"})          
 
 ----- Paragraph 
                     
-   Paragraph = AddParagraph(Farm, {"bruh", ""})
+   Paragraph = AddParagraph(Farm, {"qua sáng chói", ""})
