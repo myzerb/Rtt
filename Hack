@@ -66,8 +66,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })   AddButton(Tab1o, {
      Name = "Min gaming",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinXoV"))()
-  end
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinGamingDVn"))()
   })   AddButton(Tab1o, {
      Name = "Zis roblox",
     Callback = function()
