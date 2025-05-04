@@ -32,8 +32,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 ------ Tab
      local Tab1o = MakeTab({Name = "hack blox fruit"})
      local Tab2o = MakeTab({Name = "giảm lag và kaitun"})
-     local Tab4o = MakeTab({Name = "linh tinh"})
-     local Tab3o = MakeTab({Name = "hack có key"})
+     local Tab3o = MakeTab({Name = "linh tinh"})
+     local Tab4o = MakeTab({Name = "hop sv"})
      
 ------- BUTTON
     
@@ -56,7 +56,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })   AddButton(Tab1o, {
      Name = "redzhub",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+	  loadstring(game:HttpGet("https://pastefy.app/YLkcYFjx/raw"))()
   end
   })   AddButton(Tab1o, {
      Name = "W-Azure",
@@ -66,7 +66,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })   AddButton(Tab1o, {
      Name = "Min gaming",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinGamingDVn"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinA1Vn"))()
   })   AddButton(Tab1o, {
      Name = "Zis roblox",
     Callback = function()
@@ -80,19 +80,19 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
    })   AddButton(Tab1o, {
      Name = "Trẩu hub V3",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/TrauHub/refs/heads/main/TrauAp1"))()
+	  loadstring(game:HttpGet("https://github.com/LuaCrack/TrauHub/blob/main/TrauXtVn"))()
   end
- })   AddButton(Tab4o, {
+ })   AddButton(Tab3o, {
      Name = "aim bot",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Totocoems/Ace/main/Ace"))()
   end
- })     AddButton(Tab4o, {
+ })     AddButton(Tab3o, {
      Name = "pvp and hitbox",
     Callback = function()
 	  loadstring(Game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/OniiChanVanThanhIOS/refs/heads/main/oniichanpakavanthanhios"))()
   end
-})    AddButton(Tab1o, {
+})    AddButton(Tab4o, {
      Name = "teddy hub freemium",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDY-FREEMIUM"))()
@@ -122,10 +122,15 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/MaruHub"))()
   end
-  })    AddButton(Tab1o, {
-     Name = "Maru Hub",
+  })    AddButton(Tab4o, {
+     Name = "Auto full moon",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/MaruHub"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDYHUB-FullMoon"))()
+  end
+  })    AddButton(Tab4o, {
+     Name = "Auto Tyrant",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/Auto-Tyrant-TEDDYHUB"))()
   end
   })
 ----- Section 
