@@ -130,7 +130,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 ----- Section 
    
-   Section = AddSection(Tab1o, {"chs gay ko😘"})          
+   Section = AddSection(Tab1o, {"chs hack ko"})          
 
 ----- Paragraph 
                     
